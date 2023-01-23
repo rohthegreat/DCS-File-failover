@@ -7,6 +7,12 @@ bin-release/
 # Other files and folders
 .settings/
 
+fi 
+else 
+  input(Verify.log):
+
+
+
 # Executables
 *.swf
 *.air
